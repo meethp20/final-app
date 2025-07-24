@@ -1,0 +1,1 @@
+my attempt to learn svelte in 2 days
