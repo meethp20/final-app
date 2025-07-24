@@ -12,7 +12,7 @@
 	<main>
 		{@render children()}
 	</main>
-  <Micro />
+  
 	<footer>
 		<p class="text-6xl">
 			visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to learn about SvelteKit
