@@ -1,7 +1,7 @@
 <script lang="ts">
 	import Header from './Header.svelte';
 	import '../app.css';
-	import Micro from './meeth/+Micro.svelte';
+	import Micro from './meeth/+page.svelte';
 
 	let { children } = $props();
 </script>
