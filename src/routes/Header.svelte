@@ -125,5 +125,4 @@
 
 	a:hover {
 		color: var(--color-theme-1);
-	}
-</style>
+	}  </style>
